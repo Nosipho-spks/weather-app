@@ -1,2 +1,2 @@
 # weather-app
-weather apps
+Weather apps using Bootsrap, Javascript, CSS and HTML.
